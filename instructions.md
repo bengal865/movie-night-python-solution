@@ -38,7 +38,8 @@
 
 ## Directions
 
-    - Use the keyword `import` to import the Python `random` module into your script
+    - Use the keyword `import` to import the Python `random` module into your script   
+
     - Define a Python list `genres` and add at least four movie genres to it, e.g., comedy, action, romance, etc.
     - Use the Python `random.choice()` method to randomly select a genre from your list of movie genres; save the randomly selected genre to a variable named `genre`
     - Print the randomly selected movie genre
