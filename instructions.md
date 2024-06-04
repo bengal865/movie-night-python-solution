@@ -15,7 +15,7 @@
 ## Sample Output
 
 Your output should look similar to the example below:
-![sample output](movie-output.png)
+![sample output](movies-output.png)
 
 ## General Requirements
 
