@@ -33,7 +33,7 @@
 
 ## Resources:
 
-- [random choice () function to randomly select list item](https://pynative.com/python-random-choice/#h-random-choice-function-to-select-a-random-element-from-a-list-in-python)
+- [random choice () method to randomly select list item](https://pynative.com/python-random-choice/#h-random-choice-function-to-select-a-random-element-from-a-list-in-python)
 - [Python random choice () method](https://www.w3schools.com/python/ref_random_choice.asp)
 
 ## Directions
