@@ -47,6 +47,6 @@
 
 - Print the randomly selected movie genre   
 
-- Next, use the `remove()` method to remove the randomly selected genre from your list of movie genres   
+- Next, use the `remove()` method to remove the randomly selected genre from your movie genres list
 
 - Use an `if-else` statement to first check if the list is empty; if the list is empty, tell the user the movie genres list is empty and that the movie genre can't be removed from an empty list; otherwise, remove the randomly selected genre from the list and let the user know which genre was removed from the list
